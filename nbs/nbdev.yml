@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "SuperCollider-nbdev"
+  site-url: "https://twistin.github.io/SuperCollider-nbdev"
+  description: "Este curso presenta SuperCollider (SC), un entorno de programación gratuito, de código abierto y multiplataforma para la síntesis de audio digital en tiempo real y la composición algorítmica. SuperCollider es un miembro de una familia de plataformas de programación de audio que han sido creadas y desarrolladas en las últimas décadas, que incluye Csound, Max/MSP, Pure Data, Kyma, ChucK, RTcmix, Sonic Pi, TidalCycles, FoxDot, y muchas otras. Estas plataformas pueden describirse como cajas de arena de audio; sus objetos, clases y métodos están diseñados específicamente para aplicaciones de sonido, y existen dentro de un entorno altamente flexible y modular. Como resultado, estos tipos de programas ofrecen un potencial considerablemente más profundo para el trabajo creativo y experimental en comparación con el software DAW y otros tipos de software basados en la línea de tiempo/pistas."
+  repo-branch: main
+  repo-url: "https://github.com/twistin/SuperCollider-nbdev"

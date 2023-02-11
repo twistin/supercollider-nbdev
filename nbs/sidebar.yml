@@ -1,0 +1,6 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_sc.ipynb
+      - 01_sc.ipynb
