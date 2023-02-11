@@ -1,0 +1,2 @@
+# supercollider-nbdev
+curso supercollider
