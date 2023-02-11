@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SuperCollider-nbdev",
+    "section": "",
+    "text": "Este curso presenta SuperCollider (SC), un entorno de programación gratuito, de código abierto y multiplataforma para la síntesis de audio digital en tiempo real y la composición algorítmica. SuperCollider es un miembro de una familia de plataformas de programación de audio que han sido creadas y desarrolladas en las últimas décadas, que incluye Csound, Max/MSP, Pure Data, Kyma, ChucK, RTcmix, Sonic Pi, TidalCycles, FoxDot, y muchas otras. Estas plataformas pueden describirse como cajas de arena de audio; sus objetos, clases y métodos están diseñados específicamente para aplicaciones de sonido, y existen dentro de un entorno altamente flexible y modular. Como resultado, estos tipos de programas ofrecen un potencial considerablemente más profundo para el trabajo creativo y experimental en comparación con el software DAW y otros tipos de software basados en la línea de tiempo/pistas."
+  },
+  {
+    "objectID": "index.html#instalar-supercollider",
+    "href": "index.html#instalar-supercollider",
+    "title": "SuperCollider-nbdev",
+    "section": "Instalar SuperCollider =>",
+    "text": "Instalar SuperCollider =>\nDescargar Supercollider"
+  },
+  {
+    "objectID": "index.html#aprender-más",
+    "href": "index.html#aprender-más",
+    "title": "SuperCollider-nbdev",
+    "section": "Aprender más",
+    "text": "Aprender más\nLos documentos oficiales se pueden ver en el navegador de documentación integrado de SuperCollider IDE. También puede verlos en línea en doc.sccode.org. Recomendamos los siguientes recursos para aprender SC:\n\nA Gentle Introduction to SuperCollider, a free ebook by Bruno Ruviaro\nEli Fieldsteel’s video tutorials\nGetting Started with SC\nNick Collins’ SC tutorial\nSCCode.org, a repository of user-submitted examples"
+  },
+  {
+    "objectID": "sc.html",
+    "href": "sc.html",
+    "title": "Índice",
+    "section": "",
+    "text": "Semana 1: Conceptos básicos de programación Introducción a SuperCollider y su uso en la creación y producción de música Conceptos básicos de programación: Variables, bucles y funciones Ejemplos de código en SuperCollider que ilustran los conceptos básicos de programación Actividad práctica: Creación de pequeñas composiciones utilizando variables, bucles y funciones.\nSemana 2: Avanzando en SuperCollider Uso de controladores externos para controlar SuperCollider SynthDefs y UGens para la creación de sintetizadores personalizados Efectos y procesamiento de audio en SuperCollider Sincronización y arreglos en tiempo real en SuperCollider Actividades prácticas que apliquen los conceptos aprendidos durante la semana.\nSemana 3: Técnicas avanzadas de programación y producción en SuperCollider Uso de patrones y generadores de eventos para crear secuencias complejas Integración de sonidos y samples en la producción musical Técnicas avanzadas de programación en SuperCollider Actividades prácticas que apliquen los conceptos aprendidos durante la semana.\nSemana 4: Creación de composiciones y proyectos en SuperCollider Desarrollo de proyectos en SuperCollider utilizando los conceptos y técnicas aprendidos durante el curso Revisión y evaluación de las composiciones y proyectos creados durante el curso Discusión sobre el futuro y las posibilidades de SuperCollider en la creación y producción de música."
+  }
+]
